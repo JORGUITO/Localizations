@@ -1,0 +1,13 @@
+HIGHLIGHT_OPTIONS = "Resaltar opciones";
+
+HIGHLIGHT_FOOTER = "Si esta activado, resaltara etiqueta para hacerla mas visibles.";
+
+ENABLED = "Activar resaltado";
+
+CB_FOOTER = "Si activas \"Resaltar con ColorBadges\", usara ColorBadges para determinar el color para el resaltado de etiquetas.Necesitas tener ColorBadges instaladd.\n\n\"Texto color inverso\" Utilizara en clor inverso de la etiqueta para resaltar la notificacion y hacerla mas visible.";
+
+CB_HIGHLIGHT = "Resaltar con ColorBadges";
+
+INVERSE_COLOR = "Texto color inverso";
+
+SELECT_COLOR = "Selecciona un color para resaltado";

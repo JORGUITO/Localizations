@@ -1,0 +1,15 @@
+LABEL_OPTIONS = "Opciones de etiqueta";
+
+CAPITALIZED_TEXT = "Si esta activado, pondra en mayusculas la primera letra de la notificacion. (ej : '1 notificacion' se combierte en'1 Notificacion')";
+
+CAPITALIZE = "Primera letra en mayuscula";
+
+CB_WARNING = "Si activas \"ColorBadges para etiquetas\", usara ColorBadges para determinar el color de la etiqueta.\nNecesitas tener ColorBadges instalado.";
+
+ENABLE_LABELS = "Activar cambio de color de etiquetas";
+
+USE_CB = "Usa ColorBadges para etiquetas";
+
+WARNING_COLOR = "Establecera un color para las etiquetas con notificaccion";
+
+SELECT_COLOR = "Seleccionar color";

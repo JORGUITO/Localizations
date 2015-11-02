@@ -1,0 +1,23 @@
+WARNING_ALL_LABELS = "Para que la tercera opcion funcione debidamente, debes deshabilitar la misma opcion en HideMe8 y/o en Springtomize";
+
+ENABLED = "Activado";
+
+HIDE_BADGES = "Esconde avisos";
+
+HIDE_ALL_LABELS = "Esconde todas la etiquetas";
+
+OPTIONS = "Opciones";
+
+LABEL_OPTIONS = "Opciones de etiqueta";
+
+HIGHLIGHT_OPTIONS = "Opciones de resaltado";
+
+LANGUAGE_OPTIONS = "Opciones de idioma";
+
+PERAPP_OPTIONS = "Opciones por App";
+
+APPLY_CHANGES = "Necesario un respring para aplicar cambios o puede crashear tu SpringBoard.\n(Estas avisado...)";
+
+RESPRING = "Respring para aplicar cambios";
+
+CREDITS = "Creditos";

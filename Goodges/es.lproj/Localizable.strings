@@ -1,0 +1,34 @@
+NOTIFICATION = "notificacion";
+
+NOTIFICATIONS = "notificaciones";
+
+MESSAGE = "mensaje";
+
+MESSAGES = "mensajes";
+
+MAIL = "correo";
+
+MAILS = "correos";
+
+UPDATE = "actualizacion";
+
+UPDATES = "actualizaciones";
+
+CALL = "llamada";
+
+CALLS = "llamadas";
+
+REMINDER = "recordatorio";
+
+REMINDERS = "recordatorios";
+
+SNAP = "snap";
+
+SNAPS = "snaps";
+
+/* If your language support "auto pluralization" or not */
+AUTO_PLURAL = "YES";
+
+/* The letter to add to a word so it goes to its plural form. Leave it blank if
+ * you set AUTO_PLURAL to NO */
+PLURAL_CHAR = "s";

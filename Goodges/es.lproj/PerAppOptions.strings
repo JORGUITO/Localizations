@@ -1,0 +1,7 @@
+SINGULAR_FORM = "Escribelo en su forma singular.";
+
+LABEL = "Etiqueta";
+
+PLURAL_FORM = "Forma plural";
+
+IF_PLURAL = "Cambia en valor de la forma plural si es necesario";
